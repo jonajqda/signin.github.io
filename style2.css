@@ -1,0 +1,16 @@
+h1 {
+    /* font-family: 'Dancing Script', cursive; */
+    font-size: 80px;
+}
+
+#mostrarInfo {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    display: flex;
+    border-radius: 5%;
+}
+
+.info {
+    font-size: 20px;
+}
+
